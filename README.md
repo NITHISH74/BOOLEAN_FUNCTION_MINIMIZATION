@@ -68,9 +68,11 @@ endmodule//type code for f2 as like f1
 
 
 **RTL**
+
 ![image](https://github.com/NITHISH74/BOOLEAN_FUNCTION_MINIMIZATION/assets/94164665/f7a209f3-772e-4f11-9089-1bb1c776b59a)
 
 
 **Result:**
+
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
